@@ -43,6 +43,8 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 ### Demo Video
+    
+  ******  https://watch.screencastify.com/v/v9YkAl4Z20WMBuRiKzaC (revisited and completed the module 10 challenge after Project 2) *****
 
-https://drive.google.com/file/d/1xOG2s5NerQr8DddHAfnuC5jVWSTxaqjJ/view (first attempt)
-    (revisited and completed the module 10 challenge after Project 2)
+    https://drive.google.com/file/d/1xOG2s5NerQr8DddHAfnuC5jVWSTxaqjJ/view (first attempt)
+
