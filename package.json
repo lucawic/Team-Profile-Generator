@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucawic/Team-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucawic/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/lucawic/Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2",
+    "uuid": "^8.3.2"
+  }
+}
